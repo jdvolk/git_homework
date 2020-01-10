@@ -1,2 +1,3 @@
 "why be normal... where is the fun in that"
 "finally got ssh to work"
+"remember to delete the ssh config file after i leave arizona"
